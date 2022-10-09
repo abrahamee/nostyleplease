@@ -1,4 +1,4 @@
-# no style, please!!!
+# no style, please!
 
 <img src="https://raw.githubusercontent.com/Masellum/hugo-theme-nostyleplease/main/logo.png" width="64" align="left" />A (nearly) no-CSS, fast, minimalist [Hugo](https://gohugo.io/) theme ported from [riggraz
 /
